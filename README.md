@@ -11,6 +11,9 @@
 - [x] 8. Nivelamento sobre JPA - PARTE 1 (AULA EXTRA)
 - [x] 9. Nivelamento sobre JPA - PARTE 2 (AULA EXTRA)
 - [x] 10. Nivelamento sobre JPA - PARTE 3 (AULA EXTRA)
-- [ ] 11. Criação do projeto do curso
+- [x] 11. Criação do projeto do curso
+- [ ] 12. Testando o projeto
+- [ ] 13. Primeiro commit - Projeto criado
+- [ ] 14. REST testado
 
  
