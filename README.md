@@ -14,6 +14,9 @@
 - [x] 11. Criação do projeto do curso
 - [x] 12. Testando o projeto
 - [x] 13. Primeiro commit - Projeto criado
-- [ ] 14. REST testado
+- [x] 14. REST testado
+- [ ] 15. Testando a primeira classe de domínio - Categoria
+- [ ] 16. Banco de dados H2 e criação automática da base de dados
+- [ ] 17. Cri...
 
  
